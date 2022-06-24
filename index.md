@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Summer 2020 DREU Project Site
+published: true
 ---
 
 * TOC
@@ -8,11 +9,16 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Name - Piano Endo
+School - DePauw University
+Majors - Film Studies and Computer Science
+Graduation Year - May 2023
+Grade - A rising senior
+Hometown - Tokyo, Japan
 
 ## About My Mentor
 
-Mentor info goes here.
+Name - 
 
 ## About My Project
 
