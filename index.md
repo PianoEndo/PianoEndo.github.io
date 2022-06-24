@@ -9,16 +9,26 @@ published: true
 
 ## About Me
 
-Name - Piano Endo
+
+Name - Piano Endo  
+
 School - DePauw University
+
 Majors - Film Studies and Computer Science
+
 Graduation Year - May 2023
+
 Grade - A rising senior
+
 Hometown - Tokyo, Japan
 
 ## About My Mentor
 
-Name - 
+Name - Professor Liz Murnane
+
+School and Department - Dartmouth College, Thayer School of Engineering
+
+Areas of research - Human-centered design / Human-computer interaction / Informatics / Social computing 
 
 ## About My Project
 
