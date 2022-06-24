@@ -30,6 +30,8 @@ School and Department - Dartmouth College, Thayer School of Engineering
 
 Areas of research - Human-centered design / Human-computer interaction / Informatics / Social computing 
 
+Website - [Empower Research Lab](https://empower-lab.emurnane.host.dartmouth.edu/)
+
 ## About My Project
 
 Project description goes here.
