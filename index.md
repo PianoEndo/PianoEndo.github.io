@@ -35,11 +35,11 @@ Website - [Empower Research Lab](https://empower-lab.emurnane.host.dartmouth.edu
 ## About My Project
 
 - Background
-	- Chronic pain (CP) is a type of pain that persists beyond three to six months ([Treede et al., 1003](https://oce-ovid-com.dartmouth.idm.oclc.org/article/00006396-201506000-00006/HTML)). In the United States alone, about 20% of adults have some form of CP ([Dahlhamer, 1003](https://www.proquest.com/docview/2113734137/fulltextPDF/FCC61C1121774C72PQ/1?accountid=10422)). 
+	- Chronic pain (CP) is a type of pain that persists beyond three to six months ([Treede et al.](https://oce-ovid-com.dartmouth.idm.oclc.org/article/00006396-201506000-00006/HTML)). In the United States alone, about 20% of adults have some form of CP ([Dahlhamer](https://www.proquest.com/docview/2113734137/fulltextPDF/FCC61C1121774C72PQ/1?accountid=10422)). 
     - Researchers have traditionally assumed there is a linear relationship between tissue damage and pain symptoms. However, in the past 4-5 decades, a new theory accounting for social and psychological factors has emerged: the biopsychosocial model ([Engel](https://www.proquest.com/docview/1041810547?accountid=10422)). This framework points to a dynamic relationship between symptoms and complex environmental factors. Despite its popularity, systematic issues have barred integrative pain care principles from being widely operationalized ([Ng](https://oce-ovid-com.dartmouth.idm.oclc.org/article/00006396-202108000-00002/HTML)). The patient-clinician relationship (PCR) can be a promising aspect for implementing the biopsychosocial model of pain as well as creating impactful patient engagement and tackling disparities in healthcare.
 
 - Objective of the Project
-	My project aims to identify the effectiveness of therapeutic tangibles, toys, and interactive interfaces in lowering the psychological barriers for effective communication between patients and healthcare providers. 
+	- This project aims to provide opportunities for the patients with CP to reflect on their medical visit using interactive tangibles. 
     
 - To Do
 	- interview
