@@ -44,6 +44,7 @@ Website - [Empower Research Lab](https://empower-lab.emurnane.host.dartmouth.edu
 - To Do
 	- interview
     	- We will recruit patients with a chronic pain diagnosis from a clinician. The recruitment process will be through flyers at DHMC, Dartmouth College, and local clinics, in addition to online platforms. The patients will have therapeutic tangibles with an embedded sound recorder that enables them to verbally reflect on their visit. We will conduct interviews before and after the patients interact with the therapeutic tangibles to collect data for further qualitative and quantitative analysis.
+        
    	- interactive tangibles
     	- Creating interactive tangibles begin with creating a cast for therapeutic tangibles using a 3D modeling tool Fusion360. Then, we will pour Ecoflex, the platinum-catalyzed silicones, and create an interactive tangible. A sound recorder will be inside the therapeutic tangible to catch the patients’ reflection on their medical visit experience. 
        
