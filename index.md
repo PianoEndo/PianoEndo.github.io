@@ -45,12 +45,12 @@ Website - [Empower Research Lab](https://empower-lab.emurnane.host.dartmouth.edu
 	- interview
     	- We will recruit patients with a chronic pain diagnosis from a clinician. The recruitment process will be through flyers at DHMC, Dartmouth College, and local clinics, in addition to online platforms. The patients will have therapeutic tangibles with an embedded sound recorder that enables them to verbally reflect on their visit. We will conduct interviews before and after the patients interact with the therapeutic tangibles to collect data for further qualitative and quantitative analysis.
         
-   	- interactive tangibles
-    	- Creating interactive tangibles begin with creating a cast for therapeutic tangibles using a 3D modeling tool Fusion360. Then, we will pour Ecoflex, the platinum-catalyzed silicones, and create an interactive tangible. A sound recorder will be inside the therapeutic tangible to catch the patients’ reflection on their medical visit experience. 
-       
+    - interactive tangibles
+    	- Creating interactive tangibles begin with creating a cast for therapeutic tangibles using a 3D modeling tool Fusion360. Then, we will pour Ecoflex, the platinum-catalyzed silicones, and create an interactive tangible. A sound recorder will be inside the therapeutic tangible to catch the patients’ reflection on their medical visit experience.
+        
     - exhibition
     	- After the qualitative and quantitative analysis on the interviews with the patients, we will hold an exhibition in the Engineering and Computer Science Center at Dartmouth College. The exhibition aims to increase awareness on CP and the patients’ experience. The theme of the exhibition will be resonance - hoping to suggest and/or remind of images, memories and emotions of the fights the patients with CP put up. We will display the interactive tangibles with a recorded voice inside in addition to a private space where the visitors can listen to them.
-
+   
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
