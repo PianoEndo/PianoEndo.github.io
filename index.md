@@ -59,3 +59,7 @@ Website - [Empower Research Lab](https://empower-lab.emurnane.host.dartmouth.edu
 ## My Blog
 
 [My Blog](blog.html)
+
+## My Poster
+
+[My Poster](files/poster.pdf)
